@@ -11,7 +11,6 @@ A Full-stack MERN application with basic CRUD operations. A simple coding discus
 - Authentication
   - Login with Google (Google OAuth)
   - Login with Email (JWT, bcrypt)
-  - Token expiry
 - User Roles
   - Login to create posts.
   - Like other's posts.
