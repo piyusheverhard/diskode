@@ -85,9 +85,9 @@ A Full-stack MERN application with basic CRUD operations. A simple coding discus
 ## LOCAL ENVIRONMENT SETUP 
 - Clone repository 
 ```git
-git clone https://github.com/saloni-15/Stalgia.git
+git clone https://github.com/piyusheverhard/diskode.git
 ```
-- cd `Stalgia`
+- cd `diskode`
 
 - Go to server, `cd server`.
 
